@@ -12,3 +12,7 @@ npm run build:bubblemap Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB CapuXNQoDvi
 
 ## Serve HTML
 npm run serve
+
+## Output
+
+![](/bubblemap.gif)
