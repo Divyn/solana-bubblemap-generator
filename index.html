@@ -72,8 +72,8 @@ const node = svg.append('g')
     .on('end', (event, d) => { if (!event.active) sim.alphaTarget(0); d.fx = null; d.fy = null; })
   );
 
-node.append('title')
-  .text(d => `${d.id}\n$${d3.format(",.2f")(d.value)}`);
+// node.append('title')
+//   .text(d => `${d.id}\n$${d3.format(",.2f")(d.value)}`);
 
 // Build quick stats for tooltip
 const inCount = new Map();
