@@ -1,4 +1,4 @@
-# solana-bubblemap-generator
+# Solana Historical USD Bubblemap Without Running a Node
 
 ## Build Bubblemap
 ```
